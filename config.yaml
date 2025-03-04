@@ -1,0 +1,13 @@
+- Company Name: Text
+- Individual Name: Text
+- Company Website: Url
+- Company Location: Address
+- Company Phone Number: Phone Number
+- Email: Email
+- LinkedIn Link: LinkedIn Url
+- Sector: Limited Values (From DB)
+- Ticket Size: Range (250K$ to 1M$)
+- X Twitter Account Link: X/Twitter Link
+- Funding Round: Limited Values (From DB)
+- Type of Company / Individual: Limited Values (From DB)
+- Links: Array of Urls
