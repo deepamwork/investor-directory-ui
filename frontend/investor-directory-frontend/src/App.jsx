@@ -1,9 +1,13 @@
+import Header from "./components/Header"
+import Loading from "./components/Loading"
+
 function App() {
   return (
     <>
-      <div>
-        <h1>Hello World!</h1>
-      </div>
+      <Header />
+      <main>
+        <Loading />
+      </main>
     </>
   )
 }
